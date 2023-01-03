@@ -1,16 +1,19 @@
-# google_flutter
+# GoogleFlutter
+A [Google](https://google.com) Clone Implemented with Flutter.
 
-A new Flutter project.
+## What did I do?
+Well, I made a Responsive Google Search Engine Clone using Flutter. This means that the layout changes based on the screen size, layout or platform (see screenshots below). I also implemented Google's Custom Search API to fetch search results from the internet and display them to the user in realtime. This was a simple project I really enjoyed making.
 
-## Getting Started
+## Some Screenshots
+### Mobile App
+<p align = "center">
+<img src = "https://github.com/don2dusk/Google-Flutter/blob/main/assets/ss/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202023-01-02%20at%2019.02.11.png" width="40%" height = "40%">
+<img src = "https://github.com/don2dusk/Google-Flutter/blob/main/assets/ss/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202023-01-02%20at%2019.04.30.png" width="40%" height = "40%">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### iPad App/Web App
+<p align = "center">
+<img src = "https://github.com/don2dusk/Google-Flutter/blob/main/assets/ss/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202023-01-02%20at%2019.09.26.png" width="100%" height = "100%">
+<br>
+<img src = "https://github.com/don2dusk/Google-Flutter/blob/main/assets/ss/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202023-01-02%20at%2019.11.06.png" width="100%" height = "100%">
+</p>
